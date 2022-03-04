@@ -56,17 +56,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
-
-
-/*
-  @override
-  Widget build(BuildContext context) {
-    SystemChrome.setSystemUIOverlayStyle(
-      const SystemUiOverlayStyle(
-        statusBarColor: Color(0xFF48426D),
-      ),
-    );
-*/
